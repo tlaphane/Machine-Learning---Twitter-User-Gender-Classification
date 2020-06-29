@@ -1,6 +1,6 @@
 # Machine-Learning---Twitter-User-Gender-Classification
 
-#To run, open "ProcessedData.ipynb" and run all the cells (comments in code)
+#  To run, open "ProcessedData.ipynb" and run all the cells (comments in code)
 #	We are predicting how well do words in tweets and profiles predict user gender?
 
 ## This data is downloaded from the site https://www.kaggle.com/crowdflower/twitter-user-gender-classification
