@@ -12,3 +12,7 @@ In our case we used CUDA 10.1 with the install command:
 'pip install --upgrade $BASE_URL/$CUDA_VERSION/jaxlib-0.1.31-$PYTHON_VERSION-none-$PLATFORM.whl'
 Note that we force version 0.1.31 in the pip install above.
 In addition it may be necessary to enforce jax version 0.1.50. These versions of Jax and Jaxlib are compatible
+
+#?	We are predicting how well do words in tweets and profiles predict user gender?
+
+## This data is downloaded from the site https://www.kaggle.com/crowdflower/twitter-user-gender-classification
